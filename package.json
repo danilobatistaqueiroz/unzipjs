@@ -1,0 +1,23 @@
+{
+  "name": "unzip",
+  "version": "1.0.0",
+  "description": "get a file from a url and unzip it in memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilobatistaqueiroz/unzipjs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "unzip"
+  ],
+  "author": "danilo batista de queiroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danilobatistaqueiroz/unzipjs/issues"
+  },
+  "homepage": "https://github.com/danilobatistaqueiroz/unzipjs#readme"
+}
